@@ -58,7 +58,7 @@ p {
 
 
 .skill-row {
-    width: 50%;
+    width: 100%;
     margin: 100px auto 100px auto;
     text-align: left;
 }
@@ -82,22 +82,25 @@ p {
 
 .profile {
     width: 50%;
-    margin: 100px auto;
+    margin: 200px auto 250px;
 }
 
 hr {
+    margin: 50px auto;
     border: dotted #EAF6F6 6px;
     border-bottom: none;
     width: 4%;
+    text-align: center;
 }
 
 .skills {
-    margin: 100px auto;    
+    width: 50%;
+    margin: 200px auto 250px;    
 }
 
 .contact-me {
     width: 40%;
-    margin: 100px auto;
+    margin: 200px auto 200px;
 
 }
 
